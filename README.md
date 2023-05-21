@@ -10,7 +10,7 @@ It's using Python as script language and reading a JSON containing the list of a
 
 ![JSON example](https://github.com/Lucas-Mol/PyRESTAPI_Tester/assets/93149981/2a2a6687-8453-4fe9-aae6-34ac147af545)
 
-**Description:** The JSON file with example of templates (Explication on 'How to run it?') <br/><br/>
+**Description:** The JSON file with example of templates (Explication on <a href='README.md#how-to-run-it'>'How to run it?'<a/>) <br/><br/>
 
 ## How to run it?
 It must be installed:
