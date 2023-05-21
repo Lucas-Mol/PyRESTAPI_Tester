@@ -23,7 +23,7 @@ Libs used:
 So, if you don't have them installed yet, just run: `pip install requests` and `pip install pytest`
 
 
-Write the wished endpoints on endpoints.json file:
+Write the wished endpoints on <a href='endpoints.json'>endpoints.json<a/> file:
 _(It's already filled with some templates that can be used)_
    - If endpoint has no auth: just write the url
    - If endpoint has login auth: write the url, username and password
