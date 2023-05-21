@@ -1,0 +1,16 @@
+{
+    "endpoints": [
+        {
+            "url": ""
+        },
+        {
+            "url": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "url": "",
+            "jwtoken": ""
+        }
+    ]
+}
