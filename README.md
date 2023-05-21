@@ -20,7 +20,14 @@ Libs used:
 - Requests
 - PyTest
 
-So, if you don't have them installed yet, just run: `pip install requests` and `pip install pytest`
+So, if you don't have them installed yet, just run: 
+   ```
+   pip install requests
+   ```
+   and 
+   ```
+   pip install pytest
+   ```
 
 
 Write the wished endpoints on <a href='endpoints.json'>endpoints.json<a/> file:
@@ -31,7 +38,10 @@ _(It's already filled with some templates that can be used)_
 
 **Note:** You can add any endpoint as you want
 
-**And finally**, run command: `pytest -v` on project's directory
+**And finally**, run command on project's directory:
+```
+pytest -v
+```
 
 ## Tech Stack
 
